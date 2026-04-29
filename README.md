@@ -106,3 +106,5 @@ $stmt->execute();
 # Bukti Hasil Plagiasi 
 
 <img width="1600" height="732" alt="plagiasi artikel" src="https://github.com/user-attachments/assets/cec20e26-fd92-4ea2-a2a5-84165f1a5685" />
+
+
